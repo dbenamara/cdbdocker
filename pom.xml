@@ -29,7 +29,7 @@
 		<spring-version>5.2.4.RELEASE</spring-version>
 		<hibernate-entitymanager-version>5.4.17.Final</hibernate-entitymanager-version>
 		<spring-orm-version>5.2.7.RELEASE</spring-orm-version>
-		<hibernate-validator>5.4.1.Final</hibernate-validator>
+		<hibernate-validator>5.4.2.Final</hibernate-validator>
 		<querydsl-version>4.3.1</querydsl-version>
 		<rest.version>2.1.1</rest.version>
 		<jackson.version>2.11.0</jackson.version>
