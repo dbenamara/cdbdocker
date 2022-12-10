@@ -26,7 +26,7 @@
 		<taglibs-standard-spec-version>1.2.5</taglibs-standard-spec-version>
 		<taglibs-standard-impl-version>1.2.5</taglibs-standard-impl-version>
 		<jstl-version>1.1.2</jstl-version>
-		<spring-version>5.2.4.RELEASE</spring-version>
+		<spring-version>6.0.0</spring-version>
 		<hibernate-entitymanager-version>5.4.17.Final</hibernate-entitymanager-version>
 		<spring-orm-version>5.2.7.RELEASE</spring-orm-version>
 		<hibernate-validator>5.4.1.Final</hibernate-validator>
